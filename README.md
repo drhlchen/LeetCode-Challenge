@@ -1,5 +1,7 @@
-# LeetCode-Challenge
-
-(Python)      435. Non-overlapping Intervals  [Medium]<br>
-(Python)      70. Climbing Stairs             [Easy]<br>
-(JavaScript)  70. Climbing Stairs             [Easy]<br>
+<h1> LeetCode-Challenge </h1>
+<table>
+  <tr>
+    <th>(Python)</th> <td>435. Non-overlapping Intervals</td> <td>[Medium]</td>
+    <th>(Python)</th>      <td>70. Climbing Stairs </td>            <td>[Easy]</td>
+    <th>(JavaScript)</th>  <td>70. Climbing Stairs </td>            <td>[Easy]</td>
+</table>
